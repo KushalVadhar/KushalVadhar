@@ -23,15 +23,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install matplotlib numpy
 
+      - name: List files
+        run: ls -la  # List files to check if tetris_game.py exists
+
       - name: Run Tetris Game Script
-        run: python tetris_game.py
+        run: python tetris_game.py  # Adjust this path if necessary
 
       - name: Commit and Push SVG
         run: |
-          git config --local user.email "kushalvadhar@gmail.com"  # Replace with your email
-          git config --local user.name "KushalVadhar"  # Replace with your name
-          git add tetris_game.svg
-          git commit -m "Update Tetris Contribution Game"
+          git config --local user.email "kushalvadhar@gmail.com"
+          git config --local user.name "KushalVadhar"
+          git add tetris_game.svg || echo "No changes to commit"
+          git commit -m "Update Tetris Contribution Game" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
