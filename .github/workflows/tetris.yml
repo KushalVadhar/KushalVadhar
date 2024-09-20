@@ -27,7 +27,7 @@ jobs:
         run: ls -la  # List files to check if tetris_game.py exists
 
       - name: Run Tetris Game Script
-        run: python tetris_game.py  # Adjust this path if necessary
+        run: python tetris_game.py  # This assumes tetris_game.py is in the root directory
 
       - name: Commit and Push SVG
         run: |
@@ -38,4 +38,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
