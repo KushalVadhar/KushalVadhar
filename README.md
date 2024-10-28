@@ -13,7 +13,6 @@
 🎮 Retro games and how they inspire modern app design, or 🔗 crypto trends and their impact on technology.
 
 📧 You can connect with me at: kushalvadhar@gmail.com
-🔗 Twitter | LinkedIn | GitHub
 
 ⚡ Fun Fact
 👾 I can rattle off every Pokémon from the first generation and enjoy navigating the ever-evolving landscape of crypto like a true trainer mastering their craft!
