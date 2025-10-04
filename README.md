@@ -1,23 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Kushal Vadhar
 
+🎯 Flutter Developer | Frontend Engineer | Tech Explorer
 
+🌟 About Me
 
+🔭 Currently building Flutter apps inspired by retro games.
 
-🎮 Gaming Passion
-🌟 I’m passionate about creating Flutter apps inspired by retro games.
+📚 Learning Dart, Flutter & Python to strengthen my problem-solving toolkit.
 
-📚 Learning Journey
-📖 I’m exploring Dart, Flutter, and Python to sharpen my coding skills.
+💡 Exploring how gaming design principles can inspire modern apps.
 
-💬 Ask Me About
-🎮 Retro games and how they inspire modern app design, or 🔗 crypto trends and their impact on technology.
+🌐 Curious about crypto trends and their influence on technology.
 
-📧 You can connect with me at: kushalvadhar@gmail.com
+🚀 Tech Stack
 
+Languages & Tools:
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=dart,flutter,python,html,css,js,git,github,vscode,figma" /> </p>
+📌 Featured Projects
+🎮 RetroQuest App
+
+A Flutter-based retro-themed task manager inspired by classic RPGs.
+
+💸 Crypto Insights Dashboard
+
+Track market trends with real-time data visualizations.
+
+📂 Portfolio Website
+
+Responsive personal portfolio showcasing my work & journey.
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KushalVadhar&count_private=true&show_icons=true&theme=radical&bg_color=000000&border_radius=20&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalVadhar&layout=compact&theme=radical&bg_color=000000&border_radius=20&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" height="160px"/> </p>
+📬 Connect With Me
+<p align="left"> <a href="mailto:kushalvadhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/kushal-vadhar"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a> </p>
 ⚡ Fun Fact
-👾 I can rattle off every Pokémon from the first generation and enjoy navigating the ever-evolving landscape of crypto like a true trainer mastering their craft!
 
+👾 I can name every Gen 1 Pokémon from memory, and I approach tech challenges like a trainer facing a new battle arena—always ready to adapt and evolve.
 
-![Kushal's Commit Stats](https://github-readme-stats.vercel.app/api?username=KushalVadhar&count_private=true&show_icons=true&hide=prs&theme=radical&bg_color=000000&border_radius=20&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalVadhar&layout=compact&theme=radical&bg_color=000000&border_radius=20&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF)
+✨ “Code like it’s a game, build like it’s an adventure.”
