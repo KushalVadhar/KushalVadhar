@@ -43,7 +43,7 @@ Responsive personal portfolio showcasing my work & journey.
 📬 Connect With Me
 <p align="left">
   <a href="mailto:kushalvadhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/kushal-vadhar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kushal-vadhar-41078b20a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
  <a href="https://x.com/kushalvadhar1">
   <img src="https://img.shields.io/badge/X-@kushalvadhar1-1DA1F2?style=for-the-badge&logoColor=white"/>
 </a>
