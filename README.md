@@ -28,9 +28,9 @@ Track market trends with real-time data visualizations.
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BTC-$%20fetching-orange?logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETH-$%20fetching-blue?logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAU-$%20fetching-yellow?logo=gold&logoColor=black" />
+  <img src="https://img.shields.io/badge/BTC-Loading-orange?logo=bitcoin" />
+  <img src="https://img.shields.io/badge/ETH-Loading-blue?logo=ethereum" />
+  <img src="https://img.shields.io/badge/XAU-Loading-yellow?logo=gold" />
 </p>
 
 
@@ -44,7 +44,10 @@ Responsive personal portfolio showcasing my work & journey.
 <p align="left">
   <a href="mailto:kushalvadhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/kushal-vadhar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/kushalvadhar1"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/></a>
+  <a href="https://x.com/kushalvadhar1">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" style="background-color:#E0E0E0; padding:8px; border-radius:8px;"/>
+</a>
+
 </p>
 
 ⚡ Fun Fact
