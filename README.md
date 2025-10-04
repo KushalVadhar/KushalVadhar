@@ -33,7 +33,12 @@ Responsive personal portfolio showcasing my work & journey.
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KushalVadhar&count_private=true&show_icons=true&theme=radical&bg_color=000000&border_radius=20&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalVadhar&layout=compact&theme=radical&bg_color=000000&border_radius=20&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" height="160px"/> </p>
 📬 Connect With Me
-<p align="left"> <a href="mailto:kushalvadhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/kushal-vadhar"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a> </p>
+<p align="left">
+  <a href="mailto:kushalvadhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/kushal-vadhar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/kushalvadhar1"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/></a>
+</p>
+
 ⚡ Fun Fact
 
 👾 I can name every Gen 1 Pokémon from memory, and I approach tech challenges like a trainer facing a new battle arena—always ready to adapt and evolve.
