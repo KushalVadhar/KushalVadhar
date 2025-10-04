@@ -26,6 +26,14 @@ A Flutter-based retro-themed task manager inspired by classic RPGs.
 
 Track market trends with real-time data visualizations.
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BTC-$%20fetching-orange?logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETH-$%20fetching-blue?logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAU-$%20fetching-yellow?logo=gold&logoColor=black" />
+</p>
+
+
 📂 Portfolio Website
 
 Responsive personal portfolio showcasing my work & journey.
