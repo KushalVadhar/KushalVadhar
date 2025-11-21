@@ -37,21 +37,16 @@ A gamified task manager where productivity feels like leveling up in a retro RPG
 
 ---
 
-### 💸 **Crypto Insights Dashboard**
-A crypto price-tracking app with live charts and real-time data APIs.
+### 🧪 **Currently Building New Projects**
+I'm actively working on a new **AI-powered Flutter app** to showcase:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/BTC-Monitoring-orange?logo=bitcoin" />
-  <img src="https://img.shields.io/badge/ETH-Monitoring-blue?logo=ethereum" />
-  <img src="https://img.shields.io/badge/SOL-Monitoring-purple?logo=solana" />
-</p>
+- Real backend integration  
+- State management best practices  
+- Clean architecture  
+- Modern UI/UX  
+- AI and automation in mobile workflows  
 
-> 🔧 Flutter · APIs · Graphs · Real-time Data Rendering
-
----
-
-### 🌐 **Personal Portfolio Website**
-A responsive Flutter Web portfolio showcasing projects, skills, and my journey in tech.
+> 🚧 _Repository & demo coming soon — stay tuned._
 
 ---
 
@@ -81,4 +76,4 @@ A responsive Flutter Web portfolio showcasing projects, skills, and my journey i
 👾 I treat development like a strategy game — experiment, iterate, upgrade, and evolve.  
 I don't just write code — I **build experiences.**
 
-> ✨ _"Code like it’s a game — build like it’s an adventure."_  
+> ✨ _"Code like it’s a game — build like it’s an adventure."_
