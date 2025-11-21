@@ -1,59 +1,84 @@
-👋 Hi, I'm Kushal Vadhar
+# 👋 Hi, I'm **Kushal Vadhar**
 
-🎯 Flutter Developer | Frontend Engineer | Tech Explorer
+🚀 **Flutter Developer | Frontend Engineer | Mobile App Innovator**
 
-🌟 About Me
+I build meaningful digital experiences using Flutter — combining clean UI, smooth animations, scalable architecture, and real-world feature integrations.  
+With **1.7+ years of experience** shipping production-ready apps (including one with **10,000+ installs**), I’m passionate about creating apps users enjoy using.
 
-🔭 Currently building Flutter apps inspired by retro games.
+---
 
-📚 Learning Dart, Flutter & Python to strengthen my problem-solving toolkit.
+## 🌟 About Me
 
-💡 Exploring how gaming design principles can inspire modern apps.
+- 🔭 Currently building **Flutter applications inspired by retro game mechanics**
+- ⚙️ Improving skills in **state management (Riverpod / Bloc)** and scalable architecture
+- 🤖 Integrating **AI-powered features** (text, voice, recommendations) into apps
+- 📚 Exploring backend services like **Firebase, Appwrite, and Supabase**
+- 🌐 Interested in how **crypto, gamification, and AI** shape modern product experiences
 
-🌐 Curious about crypto trends and their influence on technology.
+---
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-Languages & Tools:
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=dart,flutter,python,html,css,js,git,github,vscode,figma" /> </p>
-📌 Featured Projects
-🎮 RetroQuest App
-
-A Flutter-based retro-themed task manager inspired by classic RPGs.
-
-💸 Crypto Insights Dashboard
-
-Track market trends with real-time data visualizations.
-
+**Languages & Tools I Work With:**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BTC-Loading-orange?logo=bitcoin" />
-  <img src="https://img.shields.io/badge/ETH-Loading-blue?logo=ethereum" />
-  <img src="https://img.shields.io/badge/XAU-Loading-yellow?logo=gold" />
+ <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,html,css,js,git,github,vscode,figma" />
 </p>
 
+---
 
-📂 Portfolio Website
+## 📌 Featured Projects
 
-Responsive personal portfolio showcasing my work & journey.
+### 🎮 **RetroQuest App**
+A gamified task manager where productivity feels like leveling up in a retro RPG.
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KushalVadhar&count_private=true&show_icons=true&theme=radical&bg_color=000000&border_radius=20&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalVadhar&layout=compact&theme=radical&bg_color=000000&border_radius=20&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" height="160px"/> </p>
-📬 Connect With Me
+> 🧩 Flutter · State Management · Pixel UI · Gamification Logic  
+> _Status: Actively developing features & UI polish_
+
+---
+
+### 💸 **Crypto Insights Dashboard**
+A crypto price-tracking app with live charts and real-time data APIs.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BTC-Monitoring-orange?logo=bitcoin" />
+  <img src="https://img.shields.io/badge/ETH-Monitoring-blue?logo=ethereum" />
+  <img src="https://img.shields.io/badge/SOL-Monitoring-purple?logo=solana" />
+</p>
+
+> 🔧 Flutter · APIs · Graphs · Real-time Data Rendering
+
+---
+
+### 🌐 **Personal Portfolio Website**
+A responsive Flutter Web portfolio showcasing projects, skills, and my journey in tech.
+
+---
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=KushalVadhar&count_private=true&show_icons=true&theme=radical" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalVadhar&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
 <p align="left">
   <a href="mailto:kushalvadhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/kushal-vadhar-41078b20a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
- <a href="https://x.com/kushalvadhar1">
-  <img src="https://img.shields.io/badge/X-@kushalvadhar1-1DA1F2?style=for-the-badge&logoColor=white"/>
-</a>
-
-
-
+  <a href="https://x.com/kushalvadhar1">
+    <img src="https://img.shields.io/badge/X-@kushalvadhar1-black?style=for-the-badge&logo=x" />
+  </a>
 </p>
 
-⚡ Fun Fact
+---
 
-👾 I can name every Gen 1 Pokémon from memory, and I approach tech challenges like a trainer facing a new battle arena—always ready to adapt and evolve.
+## ⚡ Fun Fact
 
-✨ “Code like it’s a game, build like it’s an adventure.”
+👾 I treat development like a strategy game — experiment, iterate, upgrade, and evolve.  
+I don't just write code — I **build experiences.**
+
+> ✨ _"Code like it’s a game — build like it’s an adventure."_  
