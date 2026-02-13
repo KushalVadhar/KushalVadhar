@@ -3,34 +3,23 @@
 🚀 **Flutter Developer | Frontend Engineer | Mobile App Innovator**
 
 I build meaningful digital experiences using Flutter — combining clean UI, smooth animations, scalable architecture, and real-world feature integrations.  
-With **1.7+ years of experience** shipping production-ready apps (including one with 10,000+ installs), I’m passionate about creating apps users genuinely enjoy using.
+With **1.7+ years of experience** and apps reaching 10,000+ installs, I focus on building products users genuinely enjoy.
 
 ---
 
 ## 🌟 About Me
 
 🎮 I treat development like a strategy game — experiment, iterate, upgrade, evolve.  
-🎌 Inspired by anime growth arcs — every project is a training arc toward mastery.  
-⚙️ Improving skills in **Riverpod / Bloc** and scalable architecture  
-🤖 Integrating **AI-powered features** (text, voice, recommendations) into apps  
-🔥 Currently building Flutter apps inspired by **retro game mechanics & anime progression systems**  
-🌐 Exploring how **AI, crypto, and gamification** shape modern digital products  
+🎌 Inspired by anime training arcs — every project is a new power level.  
+⚙️ Improving Riverpod / Bloc & scalable architecture  
+🤖 Integrating AI-powered features into mobile apps  
+🔥 Currently building retro-game inspired Flutter applications  
 
-> ✨ _"Code like it's an anime training arc — ship like it's the final battle."_
-
----
-
-## 🎌 Developer Power Level
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Flutter+Specialist;UI%2FUX+Focused;Gamification+Lover;Anime+Inspired+Builder;Always+Leveling+Up+⚡" />
-</p>
+> ✨ _"Code like it's an anime training arc. Ship like it's the final battle."_
 
 ---
 
 ## 🚀 Tech Stack
-
-### 🛠 Languages & Tools
 
 <p align="left">
  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,html,css,js,git,github,vscode,figma" />
@@ -41,40 +30,25 @@ With **1.7+ years of experience** shipping production-ready apps (including one 
 ## 📌 Featured Projects
 
 ### 🎮 RetroQuest App
-A gamified task manager where productivity feels like leveling up in a retro RPG.
+Gamified productivity app inspired by retro RPG mechanics.
 
-🧩 Flutter · State Management · Pixel UI · Gamification Logic  
-🚧 _Actively developing new features & UI polish_
+- Flutter
+- Gamification logic
+- Pixel-style UI
+- Scalable architecture
 
----
-
-### 🤖 AI Powered Flutter App (Coming Soon)
-Building a real-world production-style Flutter app featuring:
-
-- Clean Architecture
-- Real backend integration
-- State management best practices
-- AI & automation workflows
-- Modern UI/UX patterns
-
-🚀 _Repository & demo dropping soon._
+🚧 Actively evolving with new features.
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub Activity
 
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=KushalVadhar&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalVadhar&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+🔹 Check my repositories below for live projects  
+🔹 Active contributor  
+🔹 Consistent commits  
+🔹 Production-ready Flutter apps  
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KushalVadhar&theme=radical&hide_border=false" />
-</p>
+👉 Explore my pinned repositories 👇
 
 ---
 
@@ -94,10 +68,10 @@ Building a real-world production-style Flutter app featuring:
 
 ---
 
-## ⚡ Fun Developer Fact
+## ⚡ Developer Mindset
 
-👾 I see every bug as a boss battle.  
-🧠 Every refactor is a power-up.  
-🚀 Every release is a new season.
+👾 Every bug is a boss battle  
+🧠 Every refactor is a power-up  
+🚀 Every release is a new season  
 
-> 💜 _“Stay consistent. Stay curious. Stay leveling up.”_
+> 💜 Stay consistent. Stay leveling up.
