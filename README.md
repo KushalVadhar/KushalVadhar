@@ -1,101 +1,174 @@
-<!-- ============================ -->
-<!-- 🌌 Header -->
-<!-- ============================ -->
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Kushal Vadhar</h1>
+<h3 align="center">Flutter Developer • Frontend Engineer • Mobile App Builder</h3>
 
 <p align="center">
-  <img width="450" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&lines=Hey+there!+I%27m+Kushal+Vadhar+🌟;Flutter+Developer+%26+Anime+Lover+🎌;Building+Everything+I+Dream+In+Code+🎮" />
+  Building smooth, scalable, and meaningful mobile experiences with Flutter.
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🌟 About Me
 
-**Kushal Vadhar** — Flutter Developer with a passion for *retro aesthetics, anime themes, and gamified apps*.  
-I build clean, scalable mobile experiences with smooth animations, AI integrations, and real-world workflows.
+- 🚀 1.7+ years of experience building production Flutter apps  
+- 📱 Built apps with 10,000+ installs  
+- 🎮 I treat development like a strategy game — experiment, iterate, upgrade  
+- 🎌 Inspired by anime growth arcs — every project is a training arc  
+- 🤖 Integrating AI-powered features into real-world mobile apps  
+- 🧠 Improving state management (Riverpod / Bloc) & clean architecture  
 
-- 🛠 Flutter | Dart | Firebase | Python  
-- 🤖 AI Integration (recommendations, voice, automation)  
-- 🎮 Coding like an RPG training arc  
-- 🌱 Always leveling up my skills!
-
-> ✨ “Code like it’s an anime training arc. Ship like it’s the final boss.”  
+> ✨ "Code like it's a training arc. Ship like it's the final battle."
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,html,css,js,git,github,vscode,figma" />
+### 🚀 Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,html,css,js" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Trophies (Stable Stats)
+## 🚀 What I'm Currently Building
+
+- 🤖 AI-powered Flutter applications  
+- 🎮 Gamified productivity concepts  
+- 🏗 Clean architecture demo projects  
+- 🔥 Advanced state management implementations  
+- ☁ Backend integrations (Firebase / Supabase)
+
+---
+
+## 📌 Core Strengths
+
+- Clean UI implementation  
+- Smooth animations  
+- Scalable project structure  
+- Real-world feature integration  
+- Production-focused development  
+
+---
+
+## 📂 Featured Work
+
+Explore my pinned repositories below 👇  
+
+I focus on building structured, maintainable, and practical applications rather than experimental code.
+
+---
+
+## 📬 Connect With Me
+
+<p>
+📧 Email: <b>kushalvadhar@gmail.com</b><br>
+💼 LinkedIn: https://www.linkedin.com/in/kushal-vadhar-41078b20a<br>
+🐦 X: https://x.com/kushalvadhar1
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+👾 Every bug is a boss battle  
+🧠 Every refactor is a power-up  
+🚀 Every release is a new season  
+
+Consistency > Motivation  
+Execution > Perfection  
+Growth > Comfort
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Kushal Vadhar</h1>
+<h3 align="center">Flutter Developer • Frontend Engineer • Mobile App Builder</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KushalVadhar&theme=radical&row=1&column=7" />
-</p>
-
-> 🏆 Shows a set of badges showcasing your GitHub contribution style. More reliable than unstable cards. :contentReference[oaicite:3]{index=3}
-
----
-
-## ⭐ S/O to Cool Widgets
-
-<p align="center">
-  <!-- Visitor Counter Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KushalVadhar.KushalVadhar&left_text=Profile+Views" alt="Profile Views" />
-
-  <!-- GitHub Language Badge -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KushalVadhar&layout=compact&theme=radical" />
+  Building smooth, scalable, and meaningful mobile experiences with Flutter.
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🌟 About Me
 
-### 🎮 RetroQuest  
-A gamified productivity app that feels like an RPG — complete with XP, levels, and rewards.
+- 🚀 1.7+ years of experience building production Flutter apps  
+- 📱 Built apps with 10,000+ installs  
+- 🎮 I treat development like a strategy game — experiment, iterate, upgrade  
+- 🎌 Inspired by anime growth arcs — every project is a training arc  
+- 🤖 Integrating AI-powered features into real-world mobile apps  
+- 🧠 Improving state management (Riverpod / Bloc) & clean architecture  
 
-🔗 **Repo:** https://github.com/KushalVadhar/RetroQuest  
-🔥 Flutter · Riverpod · Gamification Logic · Pixel Themes
-
-### 🤖 AI Flutter App (Soon)  
-A modern Flutter application that integrates AI recommendations, voice, and automation for real users.
-
-🔗 **Repo coming Soon** — stay tuned!
+> ✨ "Code like it's a training arc. Ship like it's the final battle."
 
 ---
 
-## 🧠 Blog / Guides (Optional)
+## 🛠 Tech Stack
 
-If you have a blog or Dev.to posts, add them here:
+### 🚀 Languages & Frameworks
 
-- 📝 *Latest on AI with Flutter* — coming soon  
-- 📘 *Gamification Patterns in Mobile Development*
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,html,css,js" />
+</p>
 
----
+### 🧰 Tools & Platforms
 
-## 📬 Let’s Connect
-
-<p align="left">
-  <a href="mailto:kushalvadhar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kushalvadhar@gmail.com-c14438?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kushal-vadhar-41078b20a">
-    <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Vadhar-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://x.com/kushalvadhar1">
-    <img src="https://img.shields.io/badge/X-@kushalvadhar1-black?style=flat-square&logo=x" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
 </p>
 
 ---
 
-## 🏁 Final Vibes
+## 🚀 What I'm Currently Building
 
-💜 Anime inspired  
-🧠 Developer driven  
-📈 Future focused  
+- 🤖 AI-powered Flutter applications  
+- 🎮 Gamified productivity concepts  
+- 🏗 Clean architecture demo projects  
+- 🔥 Advanced state management implementations  
+- ☁ Backend integrations (Firebase / Supabase)
 
-> “Don’t just write code — craft experiences.”
+---
+
+## 📌 Core Strengths
+
+- Clean UI implementation  
+- Smooth animations  
+- Scalable project structure  
+- Real-world feature integration  
+- Production-focused development  
+
+---
+
+## 📂 Featured Work
+
+Explore my pinned repositories below 👇  
+
+I focus on building structured, maintainable, and practical applications rather than experimental code.
+
+---
+
+## 📬 Connect With Me
+
+<p>
+📧 Email: <b>kushalvadhar@gmail.com</b><br>
+💼 LinkedIn: https://www.linkedin.com/in/kushal-vadhar-41078b20a<br>
+🐦 X: https://x.com/kushalvadhar1
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+👾 Every bug is a boss battle  
+🧠 Every refactor is a power-up  
+🚀 Every release is a new season  
+
+Consistency > Motivation  
+Execution > Perfection  
+Growth > Comfort
