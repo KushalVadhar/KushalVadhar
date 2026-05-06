@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-- 🚀 1.7+ years of experience building production Flutter apps  
+- 🚀 2+ years of experience building production Flutter apps  
 - 📱 Built apps with 10,000+ installs  
 - 🎮 I treat development like a strategy game — experiment, iterate, upgrade  
 - 🎌 Inspired by anime growth arcs — every project is a training arc  
